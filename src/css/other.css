@@ -1,0 +1,25 @@
+.gitbut {
+    color:inherit;
+    text-decoration:none;
+    transition: all 3 ease-in-out 1.5;
+}
+
+.gitbut:hover{
+    translate: 0 1;
+    scale: 1.1;
+}
+
+.linktext {
+    color:inherit;
+    text-decoration:none;
+    
+}
+
+.linktext:hover{
+    color: black;
+}
+
+.navtext:hover{
+    translate: 0 1;
+    scale:1.2;
+}
